@@ -1,0 +1,25 @@
+#buttonHome{
+    background-color: #fff;
+    color: green;
+}
+#buttonHome:hover{
+    color: #fff;
+    background-color: green;
+    transform: scale(1.2);
+}
+#buttonPersonagensTiposClasses{
+    background-color: green;
+    color: #fff;
+}
+#buttonPersonagensTiposClasses:hover{
+    transform: scale(1.2);
+}
+#buttonCriarPersonagem{
+    background-color: #fff;
+    color: green;
+}
+#buttonCriarPersonagem:hover{
+    color: #fff;
+    background-color: green;
+    transform: scale(1.2);
+}
