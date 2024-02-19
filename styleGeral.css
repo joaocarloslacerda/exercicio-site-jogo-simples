@@ -63,10 +63,14 @@ body{
     background-color: rgb(174, 185, 247);
     width: 800px;
     min-height: 200px;
-    margin-top: -14px;
+    margin-top: -18px;
     margin-left: 200px;
 }
-#texto{
-    width: 400px;
-    margin-left: 15px;
+.rodape{
+    background-color: rgb(75, 194, 212);
+    display: inline-flex;
+    width: 800px;
+    height: 40px;
+    margin-top: 1px;
+    margin-left: 200px;
 }

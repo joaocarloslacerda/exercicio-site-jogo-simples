@@ -23,3 +23,35 @@
 #buttonCriarPersonagem:hover{
     transform: scale(1.2);
 }
+.formCriaPersonagem{
+    padding-top: 26px;
+    margin-left: 100px;
+}
+#fCampoName{
+    width: 300px;
+    height: 20px;
+}
+#fCampoTipo{
+    width: 300px;
+    height: 20px;
+}
+#fCampoDescricao{
+    width: 600px;
+    height: 40px;
+}
+#buttonConcluir{
+    background-color: #fff;
+    color: green;
+    margin-top: 1px;
+    height: 20px;
+    width: 80px;
+    border: 2px solid green;
+    border-radius:40px;
+    letter-spacing: 1px;
+    font-size: 12px;
+    font-weight: bold;
+}
+#buttonConcluir:hover{
+    color: #fff;
+    background-color: green;
+    transform: scale(1.2);
